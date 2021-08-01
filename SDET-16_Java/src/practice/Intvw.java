@@ -2,7 +2,7 @@ package practice;
 
 import java.util.LinkedHashSet;
 
-public class Interview {
+public class Intvw {
 
 	public static void main(String[] args) {
 		

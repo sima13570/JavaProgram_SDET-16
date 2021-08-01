@@ -17,7 +17,7 @@ public class EmployeeParsarJSON {
 		ObjectMapper objOut = new ObjectMapper();//parsing 
 		
 		/**
-		 * Same program done in rest assured project
+		 * Same program done in practice project
 		 * 
 		 * jackson mapper version not working properly in this project
 		 */
